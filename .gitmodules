@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "LCMSQA"]
+	path = LCMSQA
+	url = https://github.com/cran/LCMSQA
+	shallow = true
+	registered = true
