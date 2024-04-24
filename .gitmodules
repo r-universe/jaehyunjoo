@@ -5,3 +5,6 @@
 [submodule "LCMSQA"]
 	path = LCMSQA
 	url = https://github.com/cran/LCMSQA
+[submodule "pargasite"]
+	path = pargasite
+	url = https://github.com/cran/pargasite
